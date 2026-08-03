@@ -37,3 +37,6 @@ The system does not require any Arduino, ESP32, or microcontroller.
 4. The transistor supplies power to the buzzer.
 5. The buzzer produces an alert sound.
 6. When the object is removed, the buzzer turns off.
+## 🔌 Circuit Diagram
+
+![IR Obstacle Detection Buzzer Circuit](images/circuit-diagram.png)
